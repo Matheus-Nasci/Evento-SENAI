@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.text-footer{
+    width: 1440px;
+    height: 140px;
+    left: 0px;
+    top: 884px;
+
+    background: #6BE20E;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 40px;
+}
