@@ -1,3 +1,19 @@
 body{
     font-family: 'Quicksand', sans-serif;
 }
+
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 30px;
+}

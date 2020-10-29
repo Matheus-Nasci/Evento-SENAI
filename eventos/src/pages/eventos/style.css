@@ -1,0 +1,40 @@
+.imgTitulo{
+    display: flex;
+    justify-content: center;
+}
+
+.formFilme {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.formFilme .selectFilmes {
+    margin-top: 19px;
+    margin-left: 20px;
+}
+
+
+#tabelaFilmes {
+    padding-top: 30px;
+}
+
+#tabelaFilmes td {
+    padding: 5px 20px 10px 20px;
+    max-width: 150px;
+    
+}
+
+#tabelaFilmes th {
+    border-radius: 1px;
+    padding: 10px;
+    background-color: rgb(233, 229, 229);
+}
+
+.btnFilmes{
+    display: flex;
+    padding-top: 18px;
+    padding-left: 20px;
+ }
